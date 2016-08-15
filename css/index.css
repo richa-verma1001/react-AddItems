@@ -1,0 +1,43 @@
+.box {
+  display: block;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+.banner {
+  color: pink;
+  text-align: top;
+  margin: 0px;
+}
+
+.panes {
+  border: 1px solid blue;
+  overflow: hidden;
+  padding: 10px;
+}
+
+.leftPane {
+  border: 2px solid green;
+  float: left;
+
+}
+
+.rightPane {
+  border: 2px solid pink;
+  float: left;
+  margin-left: 10px;
+}
+
+.footer {
+  border: 2px solid #cff;
+  text-align: bottom;
+  margin-top: 10px;
+  padding-top: 10px;
+  width: 100%
+}
+
+.button {
+  background-color: #ccf;
+  padding: 2px;
+  margin: 2px;
+}
