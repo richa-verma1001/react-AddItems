@@ -1,5 +1,5 @@
 ## About
-This project demostrates a sample react application with React ecosystem: Webpack, babel, node and npm. 
+Sample React application that lets you make a lists of todo, friends or items
 
 ### Prerequisites
 + [Node](https://nodejs.org/en/) and Npm (npm is installed with Node). [Install Instructions](https://nodejs.org/en/download/package-manager/)
