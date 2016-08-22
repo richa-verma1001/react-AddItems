@@ -17,7 +17,7 @@ npm install
 npm run start  [Run devmode via webpack-dev-server]
 ````
 ### Future Enhancements
-[] Styling
++ Add Styling
 
 ### References 
 + http://andrewhfarmer.com/getting-started-tutorials/ - Multiple references inside to various React tutorials
